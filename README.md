@@ -23,10 +23,8 @@ The code should have images folder in its working directory.
     
 ## Result: 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/40200916/169915144-dfc128de-b2d3-4209-bf08-7deff8262d5d.png" width="40%" height="40%">
+  <img src="https://user-images.githubusercontent.com/40200916/170414319-a2b7561c-3b6c-45d3-9470-1aff9277bdaa.png" width="40%" height="40%">
 </p>
-
-
 
 
 # Exiting From the Code:
